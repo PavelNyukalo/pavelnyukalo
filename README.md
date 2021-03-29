@@ -8,28 +8,28 @@
 <p>В свободное время саморазвиваюсь, изучаю новое, совершенствую изученное</p>
 
 <h3>💻Мой стек технологий и инструментов:</h3>
-<b>Responsive web-development:</b>
-<ul>
+
+<ul><b>Responsive web-development:</b>
   <li>HTML</li>
   <li>CSS</li>
   <li>SCSS</li>
   <li>Less</li>
 </ul>
-<b>Frontend:</b>
-<ul>
+
+<ul><b>Frontend:</b>
   <li>JavaScript</li>
   <li>TypeScript</li>
 </ul>
-<b>Methodologies:</b>
-<ul>
+
+<ul><b>Methodologies:</b>
   <li>BEM</li>
 </ul>
-<b>Task-runners:</b>
-<ul>
+
+<ul><b>Task-runners:</b>
   <li>Gulp</li>
 </ul>
-<b>Development:</b>
-<ul>
+
+<ul><b>Development:</b>
   <li>Git</li>
   <li>VS Code</li>
   <li>Figma</li>
