@@ -43,6 +43,7 @@
 <h3>🌱В настоящее время изучаю:</h3>
 <ul>
   <li>React</li>
+  <li>React Router</li>
   <li>Redux</li>
   <li>React Hooks</li>
   <li>Jest</li>
