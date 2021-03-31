@@ -9,36 +9,15 @@
 
 <h3>💻Мой стек технологий и инструментов:</h3>
 
-<b>Responsive web-development:</b>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>SCSS</li>
-  <li>Less</li>
-</ul>
+<b>Responsive web-development:</b> <span>HTML, CSS, SCSS, Less</span>
 
-<b>Frontend:</b>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-</ul>
+<b>Frontend:</b> <span>JavaScript, TypeScript</span>
 
-<b>Methodologies:</b>
-<ul>
-  <li>BEM</li>
-</ul>
+<b>Methodologies:</b> <span>BEM</span>
 
-<b>Task-runners:</b>
-<ul>
-  <li>Gulp</li>
-</ul>
+<b>Task-runners:</b> <span>Gulp</span>
 
-<b>Development:</b>
-<ul>
-  <li>Git</li>
-  <li>VS Code</li>
-  <li>Figma</li>
-</ul>
+<b>Development:</b> <span>Git, VS Code, Figma</span>
 
 <h3>🌱В настоящее время изучаю:</h3>
 <ul>
