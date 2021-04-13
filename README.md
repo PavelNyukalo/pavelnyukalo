@@ -7,24 +7,49 @@
 
 <p>В свободное время саморазвиваюсь, изучаю новое, совершенствую изученное</p>
 
-<h3>💻Мой стек технологий и инструментов:</h3>
+<h3>💻Технологии и инструменты:</h3>
 
-<b>Responsive web-development:</b> <span>HTML, CSS, SCSS, Less</span>
-
-<b>Frontend:</b> <span>JavaScript, TypeScript</span>
-
-<b>Methodologies:</b> <span>BEM</span>
-
-<b>Task-runners:</b> <span>Gulp</span>
-
-<b>Development:</b> <span>Git, VS Code, Figma</span>
+<table>
+  <tr>
+    <th colspan="2">💻Мой стек</th>
+    <th colspan="2">✔Так же умею использовать</th>
+  </tr>
+  <tr>
+    <td><b>Responsive web-development:</b></td>
+    <td>HTML, CSS, SCSS</td>
+    <td><b>Responsive web-development:</b></td>
+    <td>Less</td>
+  </tr>
+  <tr>
+    <td><b>Frontend:</b></td>
+    <td>JavaScript, TypeScript</td>
+    <td><b>Task-runners:</b></td>
+    <td>Gulp</td>
+  </tr>
+  <tr>
+    <td><b>Methodologies:</b></td>
+    <td>BEM</td>
+    <td><b>Development:</b></td>
+    <td>Figma</td>
+  </tr>
+  <tr>
+    <td><b>Development:</b></td>
+    <td>Git, VS Code</td>
+    <td><b></b></td>
+    <td></td>
+  </tr>
+</table>
 
 <h3>🌱В настоящее время изучаю:</h3>
 <ul>
-  <li>React</li>
-  <li>React Router</li>
+  <li>
+    React
+    <ul>
+      <li>React Router</li>
+      <li>React Hooks</li>
+    </ul>
+  </li>
   <li>Redux</li>
-  <li>React Hooks</li>
   <li>Jest</li>
 </ul>
 
