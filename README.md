@@ -43,14 +43,12 @@
 <h3>🌱В настоящее время изучаю:</h3>
 <ul>
   <li>
-    React
+    Vue
     <ul>
-      <li>React Router</li>
-      <li>React Hooks</li>
+      <li>Vue Router</li>
+      <li>Vuex</li>
     </ul>
   </li>
-  <li>Redux</li>
-  <li>Jest</li>
 </ul>
 
 💌Мои контакты:  
