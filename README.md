@@ -2,7 +2,7 @@
 
 <h2>Меня зовут Павел, люблю технологии, и всё, что с ними связано🖤</h2>
 
-<p>В настоящее время работаю Frontend разработчиком в <a href="https://promo-bot.ru/">Promo-bot</a>👨🏼‍💻<br>
+<p>В настоящее время работаю Frontend разработчиком в <a href="https://promo-bot.ru/">Promo-bot</a>👨🏼‍💻🤖<br>
 Так же являюсь действующим наставником на курсах профессии <a href="https://htmlacademy.ru/profession/frontender">"Фронтенд-разработчик"</a> в <a href="https://htmlacademy.ru">HTML Academy</a>👨🏼‍🎓</p>
 
 <p>В свободное время саморазвиваюсь, изучаю новое, совершенствую изученное</p>
