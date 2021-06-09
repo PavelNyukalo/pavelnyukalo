@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td><b>Frontend:</b></td>
-    <td>JavaScript, TypeScript</td>
+    <td>JavaScript, TypeScript, Vue.js</td>
     <td><b>Task-runners:</b></td>
     <td>Gulp</td>
   </tr>
