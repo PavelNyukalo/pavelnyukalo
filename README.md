@@ -22,19 +22,19 @@
   </tr>
   <tr>
     <td><b>Frontend:</b></td>
-    <td>JavaScript, TypeScript<br>Vue.js</td>
+    <td>JavaScript, TypeScript,<br>Vue.js</td>
     <td><b>Task-runners:</b></td>
     <td>Gulp</td>
   </tr>
   <tr>
     <td><b>Methodologies:</b></td>
     <td>BEM</td>
-    <td><b>Development:</b></td>
-    <td>Figma</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><b>Development:</b></td>
-    <td>Git, VS Code</td>
+    <td>Git, VS Code, Figma,<br>Jira, Miro</td>
     <td><b></b></td>
     <td></td>
   </tr>
