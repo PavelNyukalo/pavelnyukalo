@@ -40,17 +40,6 @@
   </tr>
 </table>
 
-<h3>🌱В настоящее время изучаю:</h3>
-<ul>
-  <li>
-    Vue
-    <ul>
-      <li>Vue Router</li>
-      <li>Vuex</li>
-    </ul>
-  </li>
-</ul>
-
 💌Мои контакты:  
 
 <a href="https://t.me/nyukalo" target="_blank"><img src="https://img.icons8.com/fluent/30/000000/telegram-app.png" width="30" height="30"></a>
