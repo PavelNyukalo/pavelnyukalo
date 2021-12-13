@@ -5,38 +5,17 @@
 
 <p>В свободное время саморазвиваюсь, изучаю новое, совершенствую изученное</p>
 
-<h3>💻Технологии и инструменты:</h3>
+<h3>💻Мой стек технологии и инструментов:</h3>
 
-<table>
-  <tr>
-    <th colspan="2">🐱‍💻Мой стек</th>
-    <th colspan="2">✔Так же умею использовать</th>
-  </tr>
-  <tr>
-    <td><b>Responsive web-development:</b></td>
-    <td>HTML, CSS, SCSS</td>
-    <td><b>Responsive web-development:</b></td>
-    <td>Less</td>
-  </tr>
-  <tr>
-    <td><b>Frontend:</b></td>
-    <td>JavaScript, TypeScript,<br>Vue.js</td>
-    <td><b>Task-runners:</b></td>
-    <td>Gulp</td>
-  </tr>
-  <tr>
-    <td><b>Methodologies:</b></td>
-    <td>BEM</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>Development:</b></td>
-    <td>Git, VS Code, Figma,<br>Jira, Miro</td>
-    <td><b></b></td>
-    <td></td>
-  </tr>
-</table>
+<ul>
+  <li>HTML, CSS (SCSS, Less)</li>
+  <li>JavaScript (TypeScript)</li>
+  <li>VueJS (+ VueX, Vue Router)</li>
+  <li>БЭМ</li>
+  <li>Xstate</li>
+  <li>Webpack, Gulp</li>
+  <li>Git, VS Code, Figma,<br>Jira, Miro</li>
+</ul>
 
 💌Мои контакты:  
 
