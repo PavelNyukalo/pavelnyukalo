@@ -14,7 +14,7 @@
   <li>БЭМ</li>
   <li>Xstate</li>
   <li>Webpack, Gulp</li>
-  <li>Git, VS Code, Figma,<br>Jira, Miro</li>
+  <li>Git, VS Code, Figma, Jira, Miro</li>
 </ul>
 
 💌Мои контакты:  
