@@ -1,7 +1,5 @@
 <h1>Hola👋🏼</h1>
 
-<h2>Меня зовут Павел и я:</h2>
-
 <p>В настоящее время работаю Frontend разработчиком в <a href="https://promo-bot.ru/">Promo-bot</a>👨🏼‍💻🤖<br>
 Так же являюсь действующим наставником на курсах профессии <a href="https://htmlacademy.ru/profession/frontender">"Фронтенд-разработчик"</a> в <a href="https://htmlacademy.ru">HTML Academy</a>👨🏼‍🎓 и совместном проекте с <a href="https://ligaa.agency/">Лигой А</a> - <a href="https://htmlacademy.ru/blog/academy/gde-nabratsya-opyta-posle-obucheniya">Акселераторе</a></p>
 
