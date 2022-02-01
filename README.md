@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am currently working as a Frontend developer at <a href="https://promo-bot.ru/">Promobot</a>👨🏼‍💻🤖<br>
-I am also an active mentor at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>👨🏼‍🎓 and a joint project with the <a href="https://ligaa.agency/">Liga-A</a> - <a href="https://htmlacademy.ru/blog/academy/gde-nabratsya-opyta-posle-obucheniya">Accelerator</a>
+I'm currently working as a Frontend developer at <a href="https://promo-bot.ru/">Promobot</a>👨🏼‍💻🤖<br>
+I'm also an active mentor at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>👨🏼‍🎓 and a joint project with the <a href="https://ligaa.agency/">Liga-A</a> - <a href="https://htmlacademy.ru/blog/academy/gde-nabratsya-opyta-posle-obucheniya">Accelerator</a>
 
 In my free time, I develop myself, study new things, improve what I have learned
 
