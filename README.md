@@ -16,5 +16,5 @@ In my free time, I develop myself, study new things, improve what I have learned
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/-Miro-050038?style=flat&logo=miro&logoColor=white)
 
 ## Contact
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26a5e4?style=flat&logo=telegram&logoColor=white&link=https://t.me/nyukalo)](https://t.me/nyukalo)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=white&link=mailto:pavelnyukalo@gmail.com)](mailto:pavelnyukalo@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26a5e4?style=social&logo=telegram&link=https://t.me/nyukalo)](https://t.me/nyukalo)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=social&logo=Gmail&link=mailto:pavelnyukalo@gmail.com)](mailto:pavelnyukalo@gmail.com)
