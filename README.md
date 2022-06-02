@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" height="30">
 
 I'm currently working as a Frontend developer at <a href="https://promo-bot.ru/">Promobot</a>👨🏼‍💻🤖<br>
 I'm also an active mentor at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>👨🏼‍🎓 and a joint project with the <a href="https://ligaa.agency/">Liga-A</a> - <a href="https://htmlacademy.ru/blog/academy/gde-nabratsya-opyta-posle-obucheniya">Accelerator</a>
