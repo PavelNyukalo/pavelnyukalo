@@ -27,6 +27,9 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" width="50" alt="vuejs logo">
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="50" alt="react logo">
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="50" alt="typescript logo">
   </a>
