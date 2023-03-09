@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  🤖 I’m currently working at <a href="https://promo-bot.ai/">Promobot LCC</a>
+  🤖 I’m currently working at <a href="https://promo-bot.ai/">Promobot Corp.</a>
   <br>
   👨‍🏫 I'm also an active mentor at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>
   <br>
