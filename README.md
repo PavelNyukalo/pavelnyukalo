@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 My name is Pavel Nyukalo</h1>
+<h1 align="left">Hi 👋 My name is Pavel Niukalo</h1>
 
 ###
 
@@ -11,7 +11,7 @@
   <br>
   👨‍🏫 I'm also an active mentor at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>
   <br>
-  📄 Know about my <a href="https://career.habr.com/pavelnyukalo">experiences</a>
+  📄 Know about my <a href="https://career.habr.com/pavelniukalo">experiences</a>
   <br>
   ⌚ In my leisure time I like to watch movies, play football and boardgames
 </p>
@@ -111,10 +111,10 @@
 ###
 
 <div align="left">
-  <a href="https://t.me/nyukalo" target="_blank">
+  <a href="https://t.me/niukalo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo">
   </a>
-  <a href="mailto:pavelnyukalo@gmail.com" target="_blank">
+  <a href="mailto:pavelniukalo.work@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo">
   </a>
   <a href="https://instagram.com/pavel.nyukalo?igshid=YWJhMjlhZTc=" target="_blank">
