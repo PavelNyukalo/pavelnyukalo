@@ -11,7 +11,7 @@
   <br>
   👨‍🏫 I'm also an active mentor at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>
   <br>
-  📄 Know about my <a href="https://career.habr.com/pavelniukalo">experiences</a>
+  📄 Know about my <a href="https://www.linkedin.com/in/pavel-niukalo">experiences</a>
   <br>
   ⌚ In my leisure time I like to watch movies, play football and boardgames
 </p>
