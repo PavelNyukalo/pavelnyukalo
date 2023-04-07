@@ -13,7 +13,7 @@
   <br>
   📄 Know about my <a href="https://www.linkedin.com/in/pavel-niukalo">experiences</a>
   <br>
-  ⌚ In my leisure time I like to watch movies, play football and boardgames
+  ⌚ In my leisure time I like to watch movies, hiking, play football and boardgames
 </p>
 
 ###
