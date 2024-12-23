@@ -9,7 +9,7 @@
 <p align="left">
   🤖 I’m currently working at <a href="https://cifrium.ru/">Cifrium</a>
   <br>
-  👨‍🏫 I'm also an active mentor at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>
+  👨‍🏫 I have mentoring experience at the courses of the profession <a href="https://htmlacademy.ru/profession/frontender">"Frontend developer"</a> at the <a href="https://htmlacademy.ru">HTML Academy</a>
   <br>
   📄 Know about my <a href="https://www.linkedin.com/in/pavel-niukalo">experiences</a>
   <br>
